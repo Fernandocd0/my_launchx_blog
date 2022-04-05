@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fernandocd0.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje en LaunchX</title>
+      <link>https://fernandocd0.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fernandocd0.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Mi recorrido dentro de LaunchX ha sido una travesía interesante y divertida. He visto temas como:
+ Selección de herramientas para el desarrollo de software. Instalación de herramientas. Git y Github. Python. Lógica de programación. Jupyter Notebooks. Html. Css. Js. Uso del framework Vue. Despliegue de una página usando Azure.  Y ahora continua el aprendizaje con NodeJs.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrollador(a) de software</title>
       <link>https://fernandocd0.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
