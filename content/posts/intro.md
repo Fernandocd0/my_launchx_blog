@@ -6,7 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 ¡Hola!
 
-Para mí la cultura de un desarrollador de software debe contamplar los valores de:
+Para mí la cultura de un desarrollador de software debe contemplar los valores de:
 
 - Respeto.
 - Honestidad.
