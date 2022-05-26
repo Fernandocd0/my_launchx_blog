@@ -7,11 +7,11 @@ menu:
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+<p align = "justify">
+  ¡Hola! <br>
+  Soy una persona que le gusta aprender cosas nuevas y aunque en ocasiones son unas más complejas que otras, con frecuencia logramos el objetivo. <br>
+  Actualmente estoy aprendiendo desarrollo web, matlab, python, y aunque NodeJs se me ha complicado, me esforzaré por aprenderlo también. <br>
+  A parte de la tecnología me gusta la fotografía. Puedes seguirme en instagram como: @fernando.de.la.c
+</p>
 
-> Mi nombre es Fernando.
-> Me gusta la programación, la tecnología, leer y la fotografía.
-> Quiero aprender a programar para poder dedicarme a eso en un futuro no muy lejano.
-
-**Instagram** @fernando.de.la.c
 
