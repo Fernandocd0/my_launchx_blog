@@ -10,16 +10,11 @@ necesario para que esta aventura se vuelva mi trabajo el día de mañana. <br><b
 Te invito a conocer mis aprendizajes y leer mis experiencias, no solo sobre Desarrollo Web, sino de otros intereses como Arduino, entre otros temas.
 </p>
 
-
-
-
 Mis espectativas para este proyecto son:
  
-<ul>
-  <li>Aprender HTML, CSS, JS, NodeJS, TDD, Express, Vuejs/React.</li>
-  <li>Aprender Git, Github, Linux.</li>
-  <li>A través de la práctica conseguir mi primer empleo como desarrollador.</li>
-</ul>
+- Aprender HTML, CSS, JS, NodeJS, TDD, Express, Vuejs/React.
+- Aprender Git, Github, Linux.
+- A través de la práctica conseguir mi primer empleo como desarrollador.
  
 ## ¡Woopa forever!
 ### A perseguir los conejos blancos...
